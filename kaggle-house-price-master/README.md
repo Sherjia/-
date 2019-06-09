@@ -50,3 +50,4 @@ git clone https://github.com/L1aoXingyu/kaggle-house-price.git
 </div>
 
 可以考虑在 Github 上为该项目创建一个仓库，记录训练的过程、所使用的库以及数据等的 README 文档，构建一个完善的 Github 简历。
+第一次成绩得分为：0.40890 排名4347
