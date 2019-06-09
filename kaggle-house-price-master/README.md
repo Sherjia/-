@@ -4,6 +4,7 @@
 
 在这个项目中，我们给定一个一层神经网络的baseline以及一些帮助函数，大家可以自由建立任意的神经网络来对[kaggle房价预测](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)的比赛进行预测，通过该项目，我们能够对神经网络以及调参有一个更加全面的了解。
 
+<<<<<<< HEAD
 ## 项目下载
 
 打开终端，运行
@@ -50,4 +51,6 @@ git clone https://github.com/L1aoXingyu/kaggle-house-price.git
 </div>
 
 可以考虑在 Github 上为该项目创建一个仓库，记录训练的过程、所使用的库以及数据等的 README 文档，构建一个完善的 Github 简历。
+=======
+>>>>>>> 018a19bab408b44c6df12898171781dc01de137c
 第一次成绩得分为：0.40890 排名4347
